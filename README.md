@@ -1,6 +1,6 @@
 # LifecycleMonitor
 
-Android and Fragment lifecycle monitor research.
+Activity and Fragment lifecycle monitor research.
 
 ## ActivityLifecycleCallbacks
 
